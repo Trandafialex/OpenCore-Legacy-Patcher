@@ -107,7 +107,7 @@ To run the project from source, see here: [Build and run from source](./SOURCE.m
   * [turbomacs](https://github.com/turbomacs) - 2014 5k iMac
   * [vinaypundith](https://forums.macrumors.com/members/vinaypundith.1212357/) - MacBook7,1
    * [ThatStella7922](https://github.com/ThatStella7922) - 2017 13" MacBook Pro (A1708)
-  * zephar - 2008 Mac Pro
+  * zephar - 2015 MacBook Air
   * jazo97 - 2011 15" MacBook Pro
   * And others (reach out if we forgot you!)
 * MacRumors and Unsupported Mac Communities
